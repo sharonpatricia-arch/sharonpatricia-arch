@@ -19,5 +19,10 @@ Welcome to my GitHub profile! ✨
 ### 🌟 A Little About Me
 I'm a curious learner who enjoys exploring technology and improving my skills one step at a time.
 
+### Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/Sharonp1708/)
+- [GitHub](https://github.com/sharonpatricia-arch)
+
 ---
 ✨ *Learning today, building tomorrow!*
